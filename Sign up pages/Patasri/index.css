@@ -5,6 +5,13 @@ padding: 25px;
 color: #9122B9;
 }
 
+#sign-up-client{
+    color: #9122B9;
+    accent-color: rgb(140, 255, 0);
+    margin: 10px 10px;
+
+}
+
 body{
     background-color: #9122B9;
     background-size: cover;
@@ -54,3 +61,4 @@ body{
 .sign-up-button:hover{
     color: #DA70D6;
 }
+
