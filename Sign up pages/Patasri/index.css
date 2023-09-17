@@ -3,12 +3,16 @@ h3{
 margin: auto;
 padding: 25px;
 color: #9122B9;
+text-decoration: #9122B9 underline;
+
 }
 
 #sign-up-client{
     color: #9122B9;
     accent-color: rgb(140, 255, 0);
     margin: 10px 10px;
+    border: 1px solid #9122B9;
+    
 
 }
 
@@ -31,18 +35,22 @@ body{
 .sign-up-input-box{
     width: 70%;
     padding: 5px 10px;
+    padding-left: 5%;
     margin: 8px 0;
     box-sizing: border-box;
     border: none;
     border-bottom: 2px solid #BF40BF;
+    
 }
 .sign-up-input-box:hover{
+
     color: #DA70D6;
 }
 
 #sign-up-one{
     text-decoration: none;
     color: #BF40BF;
+    
 }
 #sign-up-one:hover{
     color: #DA70D6;
@@ -52,7 +60,7 @@ body{
     background-color: #BF40BF;
     color: white;
     padding: 10px;
-    margin: 5px auto 0;
+    margin: 10px;
     border-radius: 20px;
     border: 1px solid #f0e0e0;
 
@@ -62,3 +70,6 @@ body{
     color: #DA70D6;
 }
 
+#sign-up-para{
+    padding: 30px;
+}

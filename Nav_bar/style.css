@@ -1,0 +1,35 @@
+body{
+    
+    background-size: cover;
+    background-position: center; 
+    background-color: rgb(59, 59, 203);
+    text-align: center;
+    
+}
+
+#Nav-bar{
+    background-color: white !important;
+   height:50px;
+    margin: 50px;
+    padding-top: 25px;
+    
+}
+
+ a{
+  color: rgb(65, 58, 58) !important;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 70px;
+  
+    
+ 
+  
+}
+
+a:hover{
+    text-decoration: #DA70D6 underline;
+}
+    
+
+
+    
